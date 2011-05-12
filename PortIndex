@@ -1,0 +1,2 @@
+mysql5 424
+variants {universal fast_mutex} portdir databases/mysql5 description {Multithreaded SQL database server} homepage http://www.mysql.com/ epoch 0 platforms darwin depends_lib {port:zlib port:openssl port:readline} name mysql5 license GPL-2 maintainers ryandesign long_description {MySQL is an open-source, multi-threaded SQL database with a command syntax very similar to mSQL.} categories databases version 5.1.57 revision 0
